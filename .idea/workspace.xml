@@ -18,37 +18,50 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1106" />
+          <entry key="py" value="1245" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1106" />
+          <entry key="Python" value="1245" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multiprocessing_Crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="29" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
                 <marker date="1541491795698" expanded="true" signature="385:390" ph="..." />
                 <marker date="1541491795698" expanded="true" signature="680:1314" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/poor_Crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+                <marker date="1541495357451" expanded="true" signature="332:368" ph="..." />
               </folding>
             </state>
           </provider>
@@ -70,6 +83,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/multiprocessing_Crawler.py" />
+        <option value="$PROJECT_DIR$/poor_Crawler.py" />
       </list>
     </option>
   </component>
@@ -192,12 +206,23 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/multiprocessing_Crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="29" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
             <marker date="1541491795698" expanded="true" signature="385:390" ph="..." />
             <marker date="1541491795698" expanded="true" signature="680:1314" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poor_Crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1541495357451" expanded="true" signature="332:368" ph="..." />
           </folding>
         </state>
       </provider>
