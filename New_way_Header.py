@@ -14,6 +14,3 @@ print(sleeptime)
 # print(r.request.headers)
 
 
-
-
-# {'User-Agent': 'python-requests/2.19.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
