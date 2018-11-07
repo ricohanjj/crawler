@@ -1,4 +1,5 @@
 import requests
+import http.cookiejar
 session = requests.session()
 
 post_url=r'http://www.santostang.com/wp-login.php'
@@ -18,4 +19,6 @@ post_data={
 }
 
 login_page = session.post(post_url,data=post_data,headers=headers)
+session.cookies = http.cookiejar.LWPCookieJar(filename='mycookies')
+# session.cookies.load(ignore_discard=True)
 print(login_page.status_code)
